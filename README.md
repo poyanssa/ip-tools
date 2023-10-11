@@ -1,4 +1,4 @@
-# GhostTrack
+# GhostHacking
 Useful tool to track location or mobile number, so this tool can be called osint or also information gathering
 
 <img src="https://github.com/poyanssa/ip-tools/blob/main/bn.png"/>
